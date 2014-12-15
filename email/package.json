@@ -1,0 +1,11 @@
+{
+  "name": "email",
+  "description": "基于emailjs的邮件发送工具",
+  "version": "0.0.0",
+  "dependencies": {
+    "emailjs":"*"
+  },
+  "engine": [
+    "node >= 0.10"
+  ]
+}

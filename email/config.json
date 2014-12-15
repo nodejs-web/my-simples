@@ -1,0 +1,6 @@
+{
+  "email":"xxx@xx.com",
+  "pass":"xxx",
+  "host":"smtp.xx.com"||"sop3.xx.com",
+  "ssl": true || false 
+}
